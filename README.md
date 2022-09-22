@@ -33,3 +33,12 @@ O Redux possui 3 princípios
 
 
 <b>As alterações são feitas através de funções puras:</b>   o Redux utiliza o conceito de programação funcional, por isso toda alteração no store é feita através de uma função pura, chamada de reducer. O reducer recebe o estado e a ação, onde com essa ação nós visualizamos o que precisa ser alterado no estado e o reduce entrega uma nova store do nosso estado da aplicação.
+
+💻 Sistema :
+-------------
+
+![image](https://user-images.githubusercontent.com/59649767/191778731-1085c7cb-0294-42db-bcb1-6b19448a1d75.png)
+
+
+
+
